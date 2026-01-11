@@ -75,7 +75,4 @@ A country scores well when:
 
 Pegged currencies automatically **downweight FX signals**.
 
----
-
-## Project Structure
 
