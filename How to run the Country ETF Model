@@ -1,0 +1,16 @@
+Run run_rank.py
+
+
+Country ModelFolder layout:
+
+>data
+--Country ETF list.xlxs
+--top10_countries.csv
+config.py
+data_providers.py
+features.py
+model.py
+ReadME.md
+run_rank.py
+universe.py
+requirements.txt
