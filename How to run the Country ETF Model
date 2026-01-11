@@ -14,3 +14,8 @@ ReadME.md
 run_rank.py
 universe.py
 requirements.txt
+
+
+The output of the code creates top ten favorable Countries/ETFs in the top10_countries.csv.
+
+The model is designed to be run weekly
